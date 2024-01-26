@@ -75,7 +75,7 @@ class PageController extends AbstractController{
                "a"=>"Sign up for free",
                 "h5"=>"$0<small class='text-secondary fw-normal'>/mo </small>",
                 "p"=>"Some quick example <br> text to build on <br> the card title and make up the <br> bulk of the card's content.",
-                "titre"=>"Free"
+                "titre"=>"super"
             ],
 
             [
